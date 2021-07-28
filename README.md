@@ -12,19 +12,21 @@
 
 **백엔드 개발자**
 
-▶️ **pursue503 ( 1년차 )**
+▶️ **pursue503**
 
 [pursue503 - Overview](https://github.com/pursue503)
 
-백엔드 1명 모집중...
+▶️ **CHAENABI**
+
+[chaenabi - Overview](https://github.com/chaenabi)
 
 **프론트 개발자**
 
-▶️ **Wony( 1.5년차 )**
+▶️ **Wony**
 
 [Wony-Lee - Overview](https://github.com/Wony-Lee)
 
-▶️ **Jongyun Ha( 1.5년차 )**
+▶️ **Jongyun Ha**
 
 [JongyunHa - Overview](https://github.com/JongyunHa)
 
