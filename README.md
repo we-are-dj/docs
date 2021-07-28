@@ -48,3 +48,7 @@
 
 - Github Action
 - Aws (ec2, rds, dtc...)
+
+---
+
+[기능 정리중](https://github.com/we-are-dj/docs/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B8%B0%EB%8A%A5/%EA%B8%B0%EB%8A%A5.md)
