@@ -20,11 +20,11 @@
 
 **프론트 개발자**
 
-▶️ **Wony( 2년차 )**
+▶️ **Wony( 1.5년차 )**
 
 [Wony-Lee - Overview](https://github.com/Wony-Lee)
 
-▶️ **Jongyun Ha( 2년차 )**
+▶️ **Jongyun Ha( 1.5년차 )**
 
 [JongyunHa - Overview](https://github.com/JongyunHa)
 
