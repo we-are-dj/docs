@@ -22,11 +22,29 @@
 
 [chaenabi - Overview](https://github.com/chaenabi)
 
+<br>
+
 **프론트 개발자**
 
 ▶️ **Wony**
 
 [Wony-Lee - Overview](https://github.com/Wony-Lee)
+
+▶️ **Dseok12**
+
+[Dseok12 - Overview](https://github.com/Dseok12)
+
+<br>
+
+**안드로이드 개발자**
+
+▶️ **sinoso**
+
+[sinoso - Overview](https://github.com/sinoso)
+
+<br>
+
+**Support**
 
 ▶️ **Jongyun Ha**
 
@@ -36,23 +54,24 @@
 
 ⚒️ **BackEnd**
 
-- Spring
+- Java 11
+- SpringBoot
 - Jpa
-- Java
-- MySql
-- DynamoDB
+- QueryDSL
+- MariaDB
+- Redis
 
 **⚒️ FrontEnd**
 
-- React
-- Next.js
-- TypeScript
+- ~~React~~
+- ~~Next.js~~
+- ~~TypeScript~~
+- Vue.js
+- scss
 
 **⚒️ Infra**
 
 - Github Action
-- Aws (ec2, rds, dtc...)
+- Aws (ec2, rds, Redis, dtc...)
 
----
 
-[기능 정리중](https://github.com/we-are-dj/docs/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B8%B0%EB%8A%A5/%EA%B8%B0%EB%8A%A5.md)
