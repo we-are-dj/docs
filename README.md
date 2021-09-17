@@ -69,9 +69,12 @@
 - Vue.js
 - scss
 
+**⚒️ Android**
+- Kotlin
+
 **⚒️ Infra**
 
 - Github Action
-- Aws (ec2, rds, Redis, dtc...)
+- Aws (ec2, rds, Redis, ETC...)
 
 
