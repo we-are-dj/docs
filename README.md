@@ -54,12 +54,12 @@
 
 ⚒️ **BackEnd**
 
-- Java 11
-- SpringBoot
-- Jpa
+- Java 11.0.2
+- SpringBoot (+ Security, AOP, dataJPA) 2.5.4
 - QueryDSL
 - MariaDB
 - Redis
+- WebSocket with socketJs
 
 **⚒️ FrontEnd**
 
